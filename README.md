@@ -1,1 +1,1 @@
-# dbt_dukdb
+# dbt_duckdb
